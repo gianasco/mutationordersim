@@ -1,12 +1,19 @@
-# mutationorder
-Mathematica code for simulating the evolution of populations of cancer cells subjected to driver, non-driver and metabolic mutations under various dynamic conditions. The underlying program is a CA model running a large population of agents moving around in a space given by the cell mutational states and the hosting compartment.   
+# Mutation Order Simulator
+Mathematica code for simulating the evolution of populations of cancer cells subjected to driver, non-driver and metabolic mutations under various dynamic conditions. The underlying program is a CA model running large number of agents representing cenls moving in both the cell mutational space, and different hosting tissues.    
 
-#### Mathematica Graphic Interface
-Mathematica offers the possibility command Manipulat to create suitable interactive interfaces allowing the user to change the analytical and numerical parameters of an algorithm.
-We have crated a set of interfaces to study different dynamical aspects in the evolution of populations of cancer cells such as the variation of the cancer stemness, the number of driver, the number of non-driver mutations, and the number of metabolic mutations, the effect of each driver mutation on the fitness of a cell, and the number of cell populations.
+##### Requirements 
+To run the simulator is required to install Mathematica 9.
+
+##### Analysis and interface
+Mathematica offers the possibility to create suitable interactive interfaces allowing the user to change the analytical and numerical parameters of an algorithm.
+We have created a set of interfaces to study different aspects of cancer cell populations such as: analyzing the variation of cancer stemeness, dynamic evolutions of cell classes under different number of driver or metabolic mutations, activation/deactivation of costrainst given by the order of mutations, changing the effect of each driver mutation on the fitness of a cell, changing the number of cell populations simulated, and many other parameters depending on the gene expression and specific type of cancer.
 
 ![Interface 1](screen2.png)
 
 ![Interface 2](screen1.png)
 
 ![Interface 3](screen3.png)
+
+
+##### Specific cases
+Migration of Circulating Tumour Cells from the breast to the bone.
