@@ -5,4 +5,8 @@ Mathematica code for simulating the evolution of populations of cancer cells sub
 Mathematica offers the possibility command Manipulat to create suitable interactive interfaces allowing the user to change the analytical and numerical parameters of an algorithm.
 We have crated a set of interfaces to study different dynamical aspects in the evolution of populations of cancer cells such as the variation of the cancer stemness, the number of driver, the number of non-driver mutations, and the number of metabolic mutations, the effect of each driver mutation on the fitness of a cell, and the number of cell populations.
 
-![Interface 1] (https://github.com/gianasco/mutationorder/blob/master/screen1.png)
+![Interface 1](screen2.png)
+
+![Interface 2](screen1.png)
+
+![Interface 3](screen3.png)
