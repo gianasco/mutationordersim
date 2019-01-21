@@ -17,3 +17,6 @@ We have created a set of interfaces to study different aspects of cancer cell po
 
 ##### Specific cases
 Migration of Circulating Tumour Cells from the breast to the bone.
+
+#### Authors
+Gianluca Ascolan1 and Pietro Lio'
