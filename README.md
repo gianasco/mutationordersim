@@ -20,3 +20,6 @@ Migration of Circulating Tumour Cells from the breast to the bone.
 
 #### Authors
 Gianluca Ascolan1 and Pietro Lio'
+
+###### References
+![Frontiers](reference.png)
