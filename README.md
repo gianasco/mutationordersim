@@ -21,7 +21,7 @@ Migration of Circulating Tumour Cells from the breast to the bone.
 #### Authors
 Gianluca Ascolan1 and Pietro Lio'
 
-###### References
+##### References and external links
 [“Energetic” Cancer Stem Cells (e-CSCs): A New Hyper-Metabolic and Proliferative Tumor Cell Phenotype, Driven by Mitochondrial Energy](https://blog.frontiersin.org/2019/02/08/scientists-identify-stem-cell-origin-of-cancer-spread/)
 
 ![Frontiers](reference.png)
